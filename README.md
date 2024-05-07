@@ -13,7 +13,7 @@
     The use of this project is to keep track of an employee database
 
   ## Contributors
-    Email or reach me here on github directly if you want to add or contribute. If you're a future student and need help with this assignment, I insist you reach out to me and use this project to write future           readme's
+    Email or reach me here on github directly if you want to add or contribute. If you're a future student and need help with this assignment, I insist you reach out to me and use this project to write future      readme's
 
   ## Testing
     a simple npm i to get the dependecies, followed by node index to start the application in your terminal
